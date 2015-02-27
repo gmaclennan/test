@@ -1,0 +1,62 @@
+{
+    "type": "Feature",
+    "geometry": null,
+    "properties": {
+        "start": "2014-10-29T14:57:15.781-04",
+        "end": "2014-11-11T17:12:39.127-05",
+        "today": "2014-10-29",
+        "deviceid": "d87eafe4af695682",
+        "grupo_donde": {
+            "utm_x": 6457467,
+            "utm_y": 7567567
+        },
+        "bateria": "capahuari_sur",
+        "comunidad": "andoas_nuevo",
+        "nuevo": false,
+        "cambio": false,
+        "cambio_desc": "Grh",
+        "grupo_impactos": {
+            "tierra_removida": true,
+            "contaminacion": true,
+            "tala_arboles": true,
+            "botadero": true
+        },
+        "grupo_tierra_removido": {
+            "cantera": true,
+            "esconden_petroleo": true
+        },
+        "grupo_tala_arboles": {
+            "tala_razon": "plataforma"
+        },
+        "grupo_contaminada": {
+            "contaminante": "agua",
+            "colpa": true,
+            "queman_petroleo": true
+        },
+        "grupo_afecta": {
+            "afecta_cocha": true,
+            "visible_cocha": false,
+            "afecta_aguajal": false,
+            "quebrada_abajo": "capahuari",
+            "afecta_tierra": false,
+            "afecta_caza_pesca": false
+        },
+        "grupo_que": {
+            "que": "desborde"
+        },
+        "foto_celular": false,
+        "grupo_fotos_camera": {},
+        "grupo_testimonio": {},
+        "grupo_quien": {
+            "monitor": "telmo_arahuanaza__dahua"
+        },
+        "meta": {
+            "instanceId": "uuid:51644857-fc57-4f1f-acc9-a4220d37dbce",
+            "instanceName": "Oct-29 14:57",
+            "formId": "monitoreo_v10",
+            "version": 10,
+            "deviceId": "android_id:d87eafe4af695682",
+            "submissionTime": "2015-02-27T05:58:12.295Z"
+        }
+    }
+}
