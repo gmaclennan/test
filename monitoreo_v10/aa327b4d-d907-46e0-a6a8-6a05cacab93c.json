@@ -1,0 +1,49 @@
+{
+    "type": "Feature",
+    "geometry": null,
+    "properties": {
+        "start": "2015-01-17T14:00:45.642-08",
+        "end": "2015-02-26T22:05:41.853-08",
+        "today": "2015-01-17",
+        "deviceid": "d87eafe4af695682",
+        "grupo_donde": {
+            "utm_x": 12412,
+            "utm_y": 531412
+        },
+        "bateria": "capahuari_sur",
+        "comunidad": "por_venir",
+        "nuevo": false,
+        "cambio": false,
+        "grupo_impactos": {
+            "tierra_removida": false,
+            "contaminacion": false,
+            "tala_arboles": false,
+            "botadero": false
+        },
+        "grupo_afecta": {
+            "afecta_cocha": false,
+            "afecta_rio": false,
+            "afecta_aguajal": false,
+            "quebrada_abajo": "capahuari",
+            "afecta_tierra": false,
+            "afecta_caza_pesca": false
+        },
+        "foto": {
+            "url": "https://s3.amazonaws.com/simpleodk.gmaclennan.test/aa327b4d-d907-46e0-a6a8-6a05cacab93c/1423407916935.jpg",
+            "originalFilename": "1423407916935.jpg"
+        },
+        "foto_celular": false,
+        "grupo_testimonio": {},
+        "grupo_quien": {
+            "monitor": "juan_jose_butuna_dahua"
+        },
+        "meta": {
+            "instanceId": "uuid:aa327b4d-d907-46e0-a6a8-6a05cacab93c",
+            "instanceName": "Jan-17 14:00",
+            "formId": "monitoreo_v10",
+            "version": 10,
+            "deviceId": "android_id:d87eafe4af695682",
+            "submissionTime": "2015-02-27T06:05:57.511Z"
+        }
+    }
+}
