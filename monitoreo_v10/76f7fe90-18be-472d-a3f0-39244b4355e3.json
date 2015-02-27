@@ -1,0 +1,49 @@
+{
+    "type": "Feature",
+    "geometry": null,
+    "properties": {
+        "start": "2015-02-26T22:19:41.466-08",
+        "end": "2015-02-26T22:21:11.064-08",
+        "today": "2015-02-26",
+        "deviceid": "d87eafe4af695682",
+        "grupo_donde": {
+            "utm_x": 214321,
+            "utm_y": 123512
+        },
+        "bateria": "capahuari_sur",
+        "comunidad": "titiyacu",
+        "nuevo": false,
+        "cambio": false,
+        "grupo_impactos": {
+            "tierra_removida": false,
+            "contaminacion": false,
+            "tala_arboles": false,
+            "botadero": false
+        },
+        "grupo_afecta": {
+            "afecta_cocha": false,
+            "afecta_rio": false,
+            "afecta_aguajal": false,
+            "quebrada_abajo": "anapaza",
+            "afecta_tierra": false,
+            "afecta_caza_pesca": false
+        },
+        "foto": {
+            "url": "https://s3.amazonaws.com/simpleodk.gmaclennan.test/76f7fe90-18be-472d-a3f0-39244b4355e3/1425018060396.jpg",
+            "originalFilename": "1425018060396.jpg"
+        },
+        "foto_celular": true,
+        "grupo_testimonio": {},
+        "grupo_quien": {
+            "monitor": "david_chino_fachin"
+        },
+        "meta": {
+            "instanceId": "uuid:76f7fe90-18be-472d-a3f0-39244b4355e3",
+            "instanceName": "Feb-26 22:19",
+            "formId": "monitoreo_v10",
+            "version": 10,
+            "deviceId": "android_id:d87eafe4af695682",
+            "submissionTime": "2015-02-27T06:21:43.518Z"
+        }
+    }
+}
