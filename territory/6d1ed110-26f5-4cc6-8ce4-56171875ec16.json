@@ -1,0 +1,30 @@
+{
+    "type": "Feature",
+    "geometry": null,
+    "properties": {
+        "formhub": {
+            "uuid": "44c8f58de4104c73ae91a6cfce6e42d9"
+        },
+        "start": "2015-02-26T22:02:10.569-08",
+        "end": "2015-02-26T22:04:40.584-08",
+        "today": "2015-02-26",
+        "deviceid": "d87eafe4af695682",
+        "territory_category": "community",
+        "territory_type": "farm",
+        "territory_type_detail": "old_farm",
+        "region": "deep_south",
+        "village": "achawib",
+        "area": "upper_kuyuwini",
+        "achawib_settlement": "bashauzoon",
+        "exact_location": "yes",
+        "people": "angelbert_johnny",
+        "meta": {
+            "instanceId": "uuid:6d1ed110-26f5-4cc6-8ce4-56171875ec16",
+            "instanceName": "Feb-26 22:02 territory point",
+            "formId": "territory",
+            "version": 1.2,
+            "deviceId": "android_id:d87eafe4af695682",
+            "submissionTime": "2015-02-27T06:05:51.630Z"
+        }
+    }
+}
