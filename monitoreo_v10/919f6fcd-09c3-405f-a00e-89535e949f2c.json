@@ -1,0 +1,71 @@
+{
+    "type": "Feature",
+    "geometry": null,
+    "properties": {
+        "start": "2014-10-27T07:01:45.331-07",
+        "end": "2015-02-26T22:00:47.585-08",
+        "today": "2014-10-27",
+        "deviceid": "d87eafe4af695682",
+        "grupo_donde": {
+            "utm_x": 12343252,
+            "utm_y": 6785645
+        },
+        "bateria": "capahuari_norte",
+        "comunidad": "titiyacu",
+        "nuevo": false,
+        "cambio": true,
+        "cambio_desc": "La empresa ha recogido bolsas de crudo",
+        "grupo_impactos": {
+            "tierra_removida": true,
+            "contaminacion": true,
+            "tala_arboles": false,
+            "botadero": false
+        },
+        "grupo_tierra_removido": {
+            "cantera": false,
+            "esconden_petroleo": true
+        },
+        "grupo_contaminada": {
+            "contaminante": "agua",
+            "colpa": true,
+            "queman_petroleo": true
+        },
+        "grupo_afecta": {
+            "afecta_cocha": true,
+            "visible_cocha": true,
+            "nombre_cocha": "Asd",
+            "afecta_aguajal": true,
+            "visible_aguajal": true,
+            "quebrada_abajo": "capahuari",
+            "afecta_tierra": true,
+            "afecta_caza_pesca": true,
+            "comunidad_caza_pesca": "titiyacu"
+        },
+        "grupo_que": {
+            "que": "desborde"
+        },
+        "foto": {
+            "url": "https://s3.amazonaws.com/simpleodk.gmaclennan.test/919f6fcd-09c3-405f-a00e-89535e949f2c/1425016782491.jpg",
+            "originalFilename": "1425016782491.jpg"
+        },
+        "foto_celular": true,
+        "grupo_fotos_celular": {
+            "foto_tierra_removida": {
+                "url": "https://s3.amazonaws.com/simpleodk.gmaclennan.test/919f6fcd-09c3-405f-a00e-89535e949f2c/1425016836936.jpg",
+                "originalFilename": "1425016836936.jpg"
+            }
+        },
+        "grupo_testimonio": {},
+        "grupo_quien": {
+            "monitor": "david_chino_fachin"
+        },
+        "meta": {
+            "instanceId": "uuid:919f6fcd-09c3-405f-a00e-89535e949f2c",
+            "instanceName": "Oct-27 07:01",
+            "formId": "monitoreo_v10",
+            "version": 10,
+            "deviceId": "android_id:d87eafe4af695682",
+            "submissionTime": "2015-02-27T06:00:57.630Z"
+        }
+    }
+}
