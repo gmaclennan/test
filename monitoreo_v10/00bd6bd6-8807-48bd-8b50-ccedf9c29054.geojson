@@ -1,0 +1,49 @@
+{
+    "type": "Feature",
+    "geometry": null,
+    "properties": {
+        "start": "2015-02-26T22:26:02.445-08",
+        "end": "2015-02-26T22:26:56.915-08",
+        "today": "2015-02-26",
+        "deviceid": "d87eafe4af695682",
+        "grupo_donde": {
+            "utm_x": 12321,
+            "utm_y": 412412
+        },
+        "bateria": "capahuari_sur",
+        "comunidad": "por_venir",
+        "nuevo": false,
+        "cambio": false,
+        "grupo_impactos": {
+            "tierra_removida": false,
+            "contaminacion": false,
+            "tala_arboles": false,
+            "botadero": false
+        },
+        "grupo_afecta": {
+            "afecta_cocha": false,
+            "afecta_rio": false,
+            "afecta_aguajal": false,
+            "quebrada_abajo": "capahuari",
+            "afecta_tierra": false,
+            "afecta_caza_pesca": false
+        },
+        "foto": {
+            "url": "https://s3.amazonaws.com/simpleodk.gmaclennan.test/00bd6bd6-8807-48bd-8b50-ccedf9c29054/1425018405266.jpg",
+            "originalFilename": "1425018405266.jpg"
+        },
+        "foto_celular": true,
+        "grupo_testimonio": {},
+        "grupo_quien": {
+            "monitor": "telmo_arahuanaza__dahua"
+        },
+        "meta": {
+            "instanceId": "uuid:00bd6bd6-8807-48bd-8b50-ccedf9c29054",
+            "instanceName": "Feb-26 22:26",
+            "formId": "monitoreo_v10",
+            "version": 10,
+            "deviceId": "android_id:d87eafe4af695682",
+            "submissionTime": "2015-02-27T06:29:35.917Z"
+        }
+    }
+}
